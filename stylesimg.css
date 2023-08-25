@@ -11,7 +11,16 @@ video{
     border-radius: 50px;
 }
 .deco{
-    margin-left: auto;
+    float: right;
+    margin-top: -50px;
+    margin-right: 50px;
+    border: none;
+    height: 50px;
+    width: 150px;
+    color: aliceblue;
+    background-color: red;
+    border-radius: 50px 10px;
+    font-size: 20px;
 }
 
 @media screen and (max-width: 700px) {
