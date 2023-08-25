@@ -35,4 +35,8 @@ video{
         width: 200px;
         height: 300px;
     }
+    .deco{
+        float: right;
+        font-size: 15px;
+    }
 }
