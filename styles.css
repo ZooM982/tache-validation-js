@@ -65,3 +65,19 @@ body {
     margin: 2px;
     text-align: right;
 }
+
+@media screen and (max-width: 900px){
+    #form{
+        width: 80%;
+        background-image: url(images/IMG_2781.JPG);
+        background-repeat: no-repeat;
+        color: #fff;
+    }
+    #form a{
+        color: red
+    }
+    #form h1{
+        color: red
+    }
+    
+}
