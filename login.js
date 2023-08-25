@@ -51,6 +51,6 @@ const validateInputs = () => {
     } else if (passwordValue.length < 8 ) {
         setError(password, 'Mot de passe incorrect')
     } else {
-        location.href="index.html"
+        location.href="acceuil.html"
     }
 }
