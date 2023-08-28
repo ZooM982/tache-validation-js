@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to top, whitesmoke, blue, rgb(212, 96, 96));
 }
 
 #form {
@@ -65,7 +66,15 @@ body {
     margin: 2px;
     text-align: right;
 }
-
+.link a{
+    text-decoration: none;
+    color: inherit;
+}
+.icons{
+    font-size: 25px;
+    justify-content: space-between;
+    padding-top: 2%;
+}
 @media screen and (max-width: 900px){
     #form{
         width: 80%;

@@ -22,6 +22,17 @@ div{
     border-radius: 50px 10px;
     font-size: 20px;
 }
+footer{
+    text-align: center;
+}
+.link a{
+    text-decoration: none;
+    color: inherit;
+}
+.icons{
+    font-size: 25px;
+    justify-content: space-between;
+}
 
 @media screen and (max-width: 500px) {
     header{

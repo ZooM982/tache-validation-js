@@ -72,6 +72,6 @@ const validateInputs = () => {
     } else if (password2Value !== passwordValue) {
         setError(password2, "Le mot de passe ne correspont pas");
     } else {
-        location.href="accueil.html"
+        location.href="index.html"
     }
 };
