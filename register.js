@@ -74,4 +74,4 @@ const validateInputs = () => {
     } else {
         location.href="index.html"
     }
-};
+}
